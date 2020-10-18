@@ -32,3 +32,6 @@ body {
 #container h1 {
     font-size: 20px;
 }
+#post {
+    padding: 1em;
+}
